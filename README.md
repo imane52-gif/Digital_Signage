@@ -36,5 +36,7 @@ Ce projet est une application web d'affichage dynamique (Digital Signage) dével
 ## 🚀 Installation & Configuration Locale
 
 1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/imane52-gif/Yazaki.git](https://github.com/imane52-gif/Yazaki.git)
+  
+ ```bash
+git clone [https://github.com/imane52-gif/Yazaki.git](https://github.com/imane52-gif/Yazaki.git)
+```
