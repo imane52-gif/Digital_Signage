@@ -28,6 +28,7 @@ Ce projet est une application web d'affichage dynamique (Digital Signage) dével
 * `rh/Dashboard.php` : Tableau de bord principal de rh.
 * `rh/Mon_profil.php` : Page de gestion du profil rh.
 * `upload.php` :montre tou les tables dans la b ase de donnees.
+* `uploads`:un dossier archiver les videos .
 
 
 ---
